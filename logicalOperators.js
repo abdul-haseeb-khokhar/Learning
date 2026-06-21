@@ -25,6 +25,7 @@
 // TASKS
 // alert(alert(1) || 2 || alert(3))
 
+/*
 let credential = prompt('Enter role:', 'Employee')
 if(credential === 'Admin'){
     let password = prompt('Enter Password','')
@@ -42,3 +43,5 @@ if(credential === 'Admin'){
 } else {
     alert('I dont know you!')
 }
+
+*/
