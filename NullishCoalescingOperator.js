@@ -19,6 +19,6 @@ alert(firstName ?? secondName?? nickName)
 // let area = (height ?? 100) * (width ?? 30)
 // alert(area)
 
-let x = 1 && 2 ?? 3
+// let x = 1 && 2 ?? 3
 
-alert(x)
+// alert(x)
